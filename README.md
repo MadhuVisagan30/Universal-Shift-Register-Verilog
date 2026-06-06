@@ -98,7 +98,7 @@ The design was verified using a dedicated Verilog testbench.
 
 ### Simulation Waveform
 
-![Universal Shift Register Simulation](waveforms/simulation_waveform.png)
+![Universal Shift Register Simulation](SIMULATION/waveform.png)
 
 ### Waveform Description
 
